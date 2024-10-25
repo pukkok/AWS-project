@@ -10,12 +10,10 @@
     git config user.name "pukkok"
     git config user.email "krystalgggg@gmail.com"
     ```
-
-    <br>
+    
     ##### 해결 방법
+    
     ```
     git config credential.username "pukkok"
     git config credential.useremail "krystalgggg@gmail.com"
     ```
-
-2. weppack
