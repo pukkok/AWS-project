@@ -1,0 +1,6 @@
+{
+    "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
+
+// @babel/preset-env: 최신 JavaScript를 브라우저 호환 코드로 변환
+// @babel/preset-react: JSX 구문을 변환
